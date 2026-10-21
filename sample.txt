@@ -1,0 +1,4 @@
+
+Python is easy to learn. Python is useful for beginners.
+Learning Python helps beginners build useful programs.
+Programs can read files, count words, and analyze text.
