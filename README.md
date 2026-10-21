@@ -1,4 +1,3 @@
-# python-mini-tools
 
 # Python Mini Tools — Project Description
 
